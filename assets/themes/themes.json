@@ -16,7 +16,11 @@
       "--secondary-border-color": "#E6E6E6",
       "--card-shadow": "0px 3px 5px rgba(0, 0, 0, 0.1)",
       "--active-shadow": "0px 1px 2.5px rgba(0, 0, 0, 0.06)",
-      "--font-size": "16px"
+      "--font-size": "16px",
+      "--danger-color": "#BE2929",
+      "--primary-color": "#3D67FF",
+      "--correct-color": "#2BC128",
+      "--blurred-circle-background-color": "rgba(33, 37, 92, 0.1)"
     }
   },
   "dark": {
@@ -34,7 +38,11 @@
       "--secondary-border-color": "#666666",
       "--card-shadow": "0px 3px 5px rgba(255, 255, 255, 0.1)",
       "--active-shadow": "0px 1px 2.5px rgba(255, 255, 255, 0.06)",
-      "--font-size": "16px"
+      "--font-size": "16px",
+      "--danger-color": "#BE2929",
+      "--primary-color": "#3D67FF",
+      "--correct-color": "#2BC128",
+      "--blurred-circle-background-color": "rgba(44, 44, 44, 0.5)"
     }
   }
 }
